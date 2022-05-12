@@ -1,1 +1,0 @@
-https://datageo.ambiente.sp.gov.br/geoserver/datageo/BIOMA_IBGE/wfs?version=1.0.0&request=GetFeature&outputFormat=SHAPE-ZIP&typeName=BIOMA_IBGE
